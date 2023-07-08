@@ -6,7 +6,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            /* my first program in C# */
             Console.WriteLine("  .-. ");
             Console.WriteLine(" (o o) ");
             Console.WriteLine(" | O | ");
