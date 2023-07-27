@@ -2,7 +2,7 @@ using System;
 
 namespace ConsoleApp1
 {
-    class HelloWorld
+    class SimpleCreature
     {
         static void Main(string[] args)
         {
